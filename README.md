@@ -11,3 +11,5 @@ A minimalist, single-page curriculum vitae built with HTML and CSS.
 1. Clone the repository:
    ```bash
  git clone https://github.com/andrea210000/Single-Page-CV.git
+ 
+ https://roadmap.sh/projects/single-page-cv
